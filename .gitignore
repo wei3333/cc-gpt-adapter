@@ -1,0 +1,23 @@
+# Reference source tree; it remains an independent nested repository.
+/sub2api/
+
+# Local build and test output.
+/bin/
+/dist/
+/cc-gpt-adapter
+*.test
+coverage.out
+coverage.html
+
+# Local credentials and environment overrides.
+credentials.json
+*.credentials.json
+.env
+.env.*
+
+# Editor and operating-system metadata.
+.DS_Store
+.idea/
+.vscode/
+
+# Other Docs
