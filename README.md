@@ -98,9 +98,6 @@ performed by the test suite.
 side effects and deliberately does not include a tokenizer dependency; it
 should not be treated as provider billing data.
 
-The approved scope and phase gates are recorded in [PLAN.md](PLAN.md). Design
-details are recorded in
-[cc-gpt-adapter实现说明_更新确认版.md](cc-gpt-adapter实现说明_更新确认版.md).
 
 ## Development
 
