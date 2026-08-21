@@ -4,6 +4,10 @@
 accepts Anthropic Messages requests from Claude Code and forwards translated
 Responses requests to the ChatGPT Codex subscription backend.
 
+The implementation reference for this program is:
+
+https://github.com/Wei-Shaw/sub2api
+
 ## Current status
 
 Phase 5 completes the loopback HTTP server and full mock request path. The project now has
